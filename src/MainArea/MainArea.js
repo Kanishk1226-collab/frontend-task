@@ -4,10 +4,10 @@ import {MdHistory, MdHome, MdPlaylistPlay, MdRssFeed, MdVideoLibrary, MdWatchLat
 import { FaFutbol, FaGripfire, FaMusic, FaNewspaper } from 'react-icons/fa'
 import {BsFillCollectionPlayFill} from 'react-icons/bs'
 import {GiGamepad} from 'react-icons/gi'
-
 import ReactPlayer from 'react-player'
 function MainArea(){
     return(
+        
         <div className="MainArea">
             <div className="Sidebar">
                 <div className="Home">
@@ -64,7 +64,8 @@ function MainArea(){
                         <FaNewspaper color="grey"fontSize="3rem"/>
                         <div>News</div>
                     </div>
-
+                    <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>  <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>     
+                    <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> 
                 </div>
             </div>
 
@@ -80,6 +81,7 @@ function MainArea(){
                     <p>Passionate about Liverpool FC? Well, you're in the  <br/> right place
           with new and exclusive uploads bringing  <br/> you closer to the   
 Premier League and World <br/> Champions, every week.</p>
+<br/> <br/> <br/>
                     </div>
                     <div className="Video">
                         <ReactPlayer
@@ -137,7 +139,7 @@ Premier League and World <br/> Champions, every week.</p>
             </div>
             <br/> <br/>
 
-            <div className="Videos">
+            <div className="Videos1">
             <div id="Description1">
                     <h2>......................NEWS......................</h2>
                     <p>CHANNEL NAME : BBC NEWS</p>
@@ -206,7 +208,7 @@ Premier League and World <br/> Champions, every week.</p>
 
             <div className="Videos">
             <div id="Description2">
-                    <h2>....................TESLA....................</h2>
+                    <h2>......................TESLA......................</h2>
                     <p>CHANNEL NAME : TESLA</p>
                     <p>SUBSCRIBERS : 1.9 MILLION</p>
                     <p>DESCRIPTION :</p>
@@ -271,6 +273,238 @@ Premier League and World <br/> Champions, every week.</p>
                         </div>
                     </div>
             </div>
+            <br/> <br/>    
+            <div id="Description3">
+                    <h1> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;UPCOMING LIVE FROM YOUTUBE CHANNELS</h1>
+                    
+                    </div>
+
+
+            <div className="Videos">
+
+            <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> 
+                    <div className="Video">
+                        
+                        <br></br>
+                        <div className="Logo">
+                            <br/> <br/><h3> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            
+                            </h3><img src="/images/E-Learning1.jpeg"alt="React"style={{height:"60px",width:"70px",borderRadius:"50%"}}/>
+                        </div>
+                        <div className="Logo">
+                            
+                            <div style={{fontSize:"3rem"}}>KNOWLEDGE<br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/E-Learning2.jpg"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>E-Learning Channel 1
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/E-Learning2.jpg"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>E-Learning Channel 2     
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/E-Learning2.jpg"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>E-Learning Channel 3            
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/E-Learning2.jpg"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>E-Learning Channel 4
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/E-Learning2.jpg"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>E-Learning Channel 5
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/E-Learning2.jpg"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>E-Learning Channel 6
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+
+
+                        <br></br>
+                        
+                    </div>
+
+                    <div className="Video">
+                        
+                        <br></br>
+                        <div className="Logo">
+                            <br/> <br/><h3> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            
+                            </h3><img src="/images/gaming.png"alt="React"style={{height:"60px",width:"70px",borderRadius:"50%"}}/>
+                        </div>
+                        <div className="Logo">
+                            
+                            <div style={{fontSize:"3rem"}}> &nbsp;GAMING <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/game1.jpg"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>Gaming Channel 1
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/game1.jpg"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>Gaming Channel 2     
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/game1.jpg"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>Gaming Channel 3            
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/game1.jpg"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>Gaming Channel 4
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/game1.jpg"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>Gaming Channel 5
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/game1.jpg"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>Gaming Channel 6
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+
+
+                        <br></br>
+                        
+                    </div>
+
+                    <div className="Video">
+                        
+                        <br></br>
+                        <div className="Logo">
+                            <br/> <br/><h3> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            
+                            </h3><img src="/images/debate1.png"alt="React"style={{height:"60px",width:"70px",borderRadius:"50%"}}/>
+                        </div>
+                        <div className="Logo">
+                            
+                            <div style={{fontSize:"3rem"}}> &nbsp;DEBATE <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/debate2.png"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>News Channel 1
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/debate2.png"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>News Channel 2     
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/debate2.png"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>News Channel 3            
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/debate2.png"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>News Channel 4
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/debate2.png"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>News Channel 5
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/debate2.png"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>News Channel 6
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+
+
+                        <br></br>
+                        
+                    </div>
+
+                    <div className="Video">
+                        
+                        <br></br>
+                        <div className="Logo">
+                            <br/> <br/><h3> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            
+                            </h3><img src="/images/sports1.jpeg"alt="React"style={{height:"60px",width:"70px",borderRadius:"50%"}}/>
+                        </div>
+                        <div className="Logo">
+                            
+                            <div style={{fontSize:"3rem"}}> &nbsp;SPORTS <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/sports2.png"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>Sports Channel 1
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/sports2.png"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>Sports Channel 2     
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/sports2.png"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>Sports Channel 3           
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/sports2.png"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>Sports Channel 4
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/sports2.png"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>Sports Channel 5
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+                        <div className="Logo">
+                            <img src="/images/sports2.png"alt="React"style={{height:"35px",width:"35px",borderRadius:"50%"}}/>
+                            <div>Sports Channel 6
+                                <br/> <br/> <br/>
+                            </div>
+                        </div>
+
+
+                        <br></br>
+                        
+                    </div>
+            </div>
+            <br/> <br/>  
+
 
 
         </div>
