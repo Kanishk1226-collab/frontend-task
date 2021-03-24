@@ -21,3 +21,7 @@ Launches the test runner in the interactive watch mode.
 Output Screenshot
 HomePage
 
+
+![HomePage](https://user-images.githubusercontent.com/67378252/112302373-07a89e80-8cc1-11eb-9a83-dd43bd084573.JPG)
+
+![HomePage2](https://user-images.githubusercontent.com/67378252/112302671-57876580-8cc1-11eb-871c-8bf4ee1efe4d.JPG)
